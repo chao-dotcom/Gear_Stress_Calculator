@@ -2,6 +2,10 @@
 
 A MATLAB GUI application for calculating gear contact stress and allowable stress according to GB/ISO standards. This tool helps engineers analyze gear designs by computing actual contact stress (σH) and allowable contact stress ([σH]) for both straight and helical gears.
 
+## Screenshots
+
+![Gear Stress Calculator Interface](screenshot.png)
+
 ## Features
 
 - **Comprehensive Input Parameters**: 
@@ -27,11 +31,6 @@ A MATLAB GUI application for calculating gear contact stress and allowable stres
   - Real-time calculation results
   - Chinese language interface
 
-## Screenshots
-
-![Gear Stress Calculator Interface](screenshot.png)
-
-![Gear Stress Calculator Interface](screenshot1.png)
 
 ## Usage
 
